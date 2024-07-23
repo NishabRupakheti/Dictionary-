@@ -38,7 +38,7 @@ const Card = () => {
     <div className="card text-center p-3 ">
       <div className={`card-header ${styles.headerCard}`}>Dictionary</div>
       <div className="card-body">
-        <h5 className="card-title font-monospace  mt-3 mb-3 "> Search for something ...
+        <h5 className="card-title font-monospace  mt-3 mb-3 "> Wandering for words?? 
           <PiEyesFill />
            </h5>
         <p className="card-text w-75 m-auto">
